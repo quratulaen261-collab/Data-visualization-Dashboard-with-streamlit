@@ -1,0 +1,6 @@
+order_id,product,sales,profit,region,date
+101,Laptop,1200,200,North,2023-01-10
+102,Phone,800,150,South,2023-02-15
+103,Tablet,600,100,East,2023-03-12
+104,Headphones,150,30,West,2023-04-05
+105,Camera,900,120,North,2023-05-20
